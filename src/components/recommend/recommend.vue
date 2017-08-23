@@ -69,7 +69,7 @@
 			},
 			selectRouter(item) {
 				this.$router.push({
-					path: `/recommend/${item.id}`
+					path: `/recommend/${item.dissid}`
 				})
 				this.storeSongList(item)
 			},
