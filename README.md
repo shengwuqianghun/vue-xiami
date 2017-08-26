@@ -1,6 +1,8 @@
 # vue-xiami
 
-> A Vue.js project
+> 仿移动端QQ音乐（简易版）
+	该项目是基于Vue2.0，利用Vue脚手架以及相关插件实现的，通过jsonp获取真实数据，通过Stylus进行css预处理，较好的实现了模板数据分离
+
 
 ## Build Setup
 
